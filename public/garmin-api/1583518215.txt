@@ -1,0 +1,17 @@
+POST /api/get-garmin-sleep-data HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,de;q=0.8
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  0
+Cookie:          XSRF-TOKEN=eyJpdiI6Inc0ZndES3l0cGxMaGhhbHZIQXczbFE9PSIsInZhbHVlIjoiRkU2NnBJa0tMaGZxakpYd0Zha2lKMXd1eFpmOW1aalFyK0Znb0dIRjZpY3M4RVJrZE1uTXQ0RUJBbnJYV0hYRiIsIm1hYyI6IjQzZDkxM2E1NjE5ZGExZGM1ZWIyYmMxZWE1ZmFmNmE5ZmVmYmUyMGJhZGU5OWNiMzg5YTJiYmQ3MzI2OTUyOGQifQ%3D%3D; laravel_session=eyJpdiI6InM4ek43OTN1K2hSUVJBUzhEaWlTM3c9PSIsInZhbHVlIjoiMlVKSmtrbXJRZUM1XC81XC85dm4rR21xN2FtUXB6Y2x6RUdaMFA5N3dFRmY2TjlLbHphbVlaQ2NlN2NlWFEraEhRIiwibWFjIjoiYTc0ZTc3YzM5NWVjMWFiMjNlY2UwNDMwYmZmZTg3MmZjNjIzOWVhNWVhYTZhMjI2Nzg0ZDNkMmVjMjlkNDM5NSJ9
+Host:            127.0.0.1:8000
+Origin:          chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+Postman-Token:   14bbc537-5989-4d0f-4536-51f6eb2066bb
+Sec-Fetch-Dest:  empty
+Sec-Fetch-Mode:  cors
+Sec-Fetch-Site:  none
+User-Agent:      Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36
+Cookie: XSRF-TOKEN=eyJpdiI6Inc0ZndES3l0cGxMaGhhbHZIQXczbFE9PSIsInZhbHVlIjoiRkU2NnBJa0tMaGZxakpYd0Zha2lKMXd1eFpmOW1aalFyK0Znb0dIRjZpY3M4RVJrZE1uTXQ0RUJBbnJYV0hYRiIsIm1hYyI6IjQzZDkxM2E1NjE5ZGExZGM1ZWIyYmMxZWE1ZmFmNmE5ZmVmYmUyMGJhZGU5OWNiMzg5YTJiYmQ3MzI2OTUyOGQifQ==; laravel_session=eyJpdiI6InM4ek43OTN1K2hSUVJBUzhEaWlTM3c9PSIsInZhbHVlIjoiMlVKSmtrbXJRZUM1XC81XC85dm4rR21xN2FtUXB6Y2x6RUdaMFA5N3dFRmY2TjlLbHphbVlaQ2NlN2NlWFEraEhRIiwibWFjIjoiYTc0ZTc3YzM5NWVjMWFiMjNlY2UwNDMwYmZmZTg3MmZjNjIzOWVhNWVhYTZhMjI2Nzg0ZDNkMmVjMjlkNDM5NSJ9
+
